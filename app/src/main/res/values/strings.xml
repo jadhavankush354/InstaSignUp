@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="instagram">Instagram</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="mobile_number_or_email">Mobile Number or Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="text1">Sign up to see photos and videos from your friends.</string>
+    <string name="text2">People who use our service may have uploaded your contact information to Instagram. <a href="https://www.facebook.com/help/instagram/261704639352628">Learn More</a></string>
+    <string name="text3">By signing up, you agree to our <a href="https://help.instagram.com/581066165581870/?locale=en_US">Terms</a> , <a href="https://www.facebook.com/privacy/policy">Privacy Policy</a> and <a href="https://privacycenter.instagram.com/policies/cookies/">Cookies Policy</a>.</string>
+    <string name="text4">Have an account? <a href="https://www.instagram.com/accounts/login/?source=auth_switcher">Log in</a></string>
+    <string name="text5">Get the app.</string>
+</resources>
